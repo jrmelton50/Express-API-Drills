@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "* Setup an API with a project structure like:",
+  "scripts": {
+    "start": "nodemon -e js server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
